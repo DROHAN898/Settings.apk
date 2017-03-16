@@ -19,6 +19,7 @@
         </dashboard-tile>
     </dashboard-category>
     <dashboard-category android:id="@id/device_section" android:title="@string/header_category_device" android:key="@string/category_key_device">
+        <dashboard-tile android:icon="@drawable/ic_settings_statusbar" android:id="@+id/rom_section" android:title="@string/rom_settings" android:fragment="com.android.settings.gravity.GravityCenter" />
         <dashboard-tile android:icon="@drawable/ic_settings_sounds" android:id="@id/sound_settings" android:title="@string/category_sounds" android:fragment="com.android.settings.notification.SoundSettings" />
         <dashboard-tile android:icon="@drawable/ic_settings_display" android:id="@id/display_and_lights_settings" android:title="@string/display_and_lights" android:fragment="com.android.settings.DisplaySettings" />
         <dashboard-tile android:icon="@drawable/ic_settings_themes" android:id="@id/theme_settings" android:title="@string/themes_settings_title">
