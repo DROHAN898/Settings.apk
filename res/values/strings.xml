@@ -3963,4 +3963,11 @@ This helps protect data on lost or stolen devices."</string>
     <string name="color_temperature">Cool color temperature</string>
     <string name="color_temperature_desc">Use cooler display colors</string>
     <string name="color_temperature_toast">To apply color change, turn off screen</string>
+    <string name="rom_settings">Gravity center</string>
+	<string name="sb_title">Statusbar</string>
+    <string name="sb_summary">Control the look and feel of the statusbar</string>
+    <string name="ges_title">Sleep and wake</string>
+    <string name="ges_summary">Enable/disbale the various gestures to sleep and wake your device</string>
+    <string name="adaptive_brightness_bg_title">Adaptive brightness in statusbar</string>
+    <string name="adaptive_brightness_bg_summary">Show adaptive brightness toggle in statusbar</string>
 </resources>
